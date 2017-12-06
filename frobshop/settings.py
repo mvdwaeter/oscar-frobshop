@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.flatpages',
     'compressor',
     'widget_tweaks',
-] + get_core_apps()
+] + get_core_apps(['apps.catalogue'])
 
 SITE_ID = 1
 
