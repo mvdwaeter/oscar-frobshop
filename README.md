@@ -2,8 +2,6 @@ Frobshop
 
 Digital product e-commerce site built with Django Oscar
 
-Requirements
+Installation
 
-django-Oscar
-django-compressor
-
+Configuration
