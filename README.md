@@ -2,6 +2,12 @@
 
 Digital product e-commerce site built with Django Oscar
 
+## Requirements
+
+* Python (3.6.2)
+
+* Django (1.11)
+
 ## Installation
 
 Clone this repo
@@ -21,3 +27,7 @@ Run migrations
 Create admin
 
 ` python manage.py createsuperuser `
+
+Add country data (for shipping) from pycountry
+
+` python manage.py oscar_populate_countries `
