@@ -108,6 +108,10 @@ OSCAR_ORDER_STATUS_PIPELINE = {
     'Cancelled': (),
 }
 
+OSCAR_DEFAULT_CURRENCY = 'USD'
+OSCAR_SHOP_NAME = 'Buy Life Skills'
+OSCAR_SHOP_TAGLINE = 'Buy or die'
+
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
