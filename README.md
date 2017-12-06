@@ -1,8 +1,8 @@
-# Frobshop #
+# Frobshop
 
 Digital product e-commerce site built with Django Oscar
 
-Installation
+## Installation
 
 Clone the repo
 $ git clone https://github.com/kristinburg/oscar-frobshop.git
@@ -10,7 +10,7 @@ $ git clone https://github.com/kristinburg/oscar-frobshop.git
 Install Python packages
 $ pip install -r requirements.txt
 
-Configuration
+## Configuration
 
 Run migrations
 $ python manage.py migrate
