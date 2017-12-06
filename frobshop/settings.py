@@ -111,7 +111,8 @@ OSCAR_ORDER_STATUS_PIPELINE = {
 OSCAR_DEFAULT_CURRENCY = 'USD'
 OSCAR_SHOP_NAME = 'Buy Life Skills'
 OSCAR_SHOP_TAGLINE = 'Buy or die'
-OSCAR_HIDDEN_FEATURES = ['reviews']
+# for product page features
+OSCAR_HIDDEN_FEATURES = ['reviews', 'wishlists']
 
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
